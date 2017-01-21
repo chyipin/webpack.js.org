@@ -23,7 +23,7 @@ An [`output.path`](#output-path) as an **absolute path** for what directory you 
 const config = {
   output: {
     filename: 'bundle.js',
-    output: '/home/proj/public/assets'
+    path: '/home/proj/public/assets'
   }
 };
 
